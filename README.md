@@ -2,7 +2,7 @@
 Customer Due Diligence - Automated Google Web Scraping for Negative News
 
 
-![](https://www.insight-training.biz/wp-content/uploads/2018/04/Jan-AML-blog-300x200.jpg)
+![](https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2018/05/Money_Laundering_Line_MI616.jpg)
 
 Five Pillars of Anti-Money Laundering and Bank Secrecy Act compliance program (collectively “AML”) 
 (1) Written policies and procedures on AML and compliance
