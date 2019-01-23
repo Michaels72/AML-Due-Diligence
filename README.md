@@ -12,7 +12,7 @@ The Five Pillars of Anti-Money Laundering and Bank Secrecy Act compliance progra
 (4) Implementation of an adequate employee training program
 (5) The establishment of a risk-based, customer due-diligence procedure
 
-The fifth pillar invloves a customer due-diligence procedure the includes making online searches for potential negative news.  This example shows the automation of a google search and results using the following key words:
+The fifth pillar invloves a customer due-diligence procedure that includes making online searches for potential negative news.  This example shows the automation of a google search and results of that search using the following key words:
 
   1) fraud 2) fraudulence 3) cheating 4) swindling 5) embezzlement 6) deceit 7) deception 8) double-dealing 
   9) chicanery 10) evasion 11) illegal 12) offshore 13) money laundering 14) unlawful 15) illicit 16) illegitimate 
